@@ -683,7 +683,7 @@ img {
 
 .words__extended {
     padding: 1.5em 0;
-    max-width: 80%;
+    max-width: 75%;
     margin: 5rem auto;
 }
 
@@ -3776,7 +3776,7 @@ h3+h1 {
     max-width: 80px;
     min-height: 75px;
     position: absolute;
-    right: 92%;
+    right: 90%;
     cursor: pointer;
 }
 
